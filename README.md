@@ -98,6 +98,7 @@ Create database Capstone_project
 ## Data Visualization
 
 
+![AMAZON PRODUCT ANALYSIS PART 1](https://github.com/user-attachments/assets/e4da4189-acc5-4196-ab7f-02283db40e0f)
 
 
 ## Findings
