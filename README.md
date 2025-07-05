@@ -5,21 +5,21 @@ This is where i want to analyze one of the projects for the completion of my dat
 ## Project Title: Performance analysis for Amazon Product
 ---
 
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Data Sources](data-sources)
+[Data Sources](#data-sources)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Data Cleaning and preparation](data-cleaning-and-preparation)
+[Data Cleaning and preparation](#data-cleaning-and-preparation)
 
-[Exploratory Data Analysis](exploratory-data-analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](data-analysis)
+[Data Analysis](#data-analysis)
 
-[Data Visualization](data-visualization)
+[Data Visualization](#data-visualization)
 
-[Findings](findings)
+[Findings](#findings)
 [Conclusions](conclusions)
 
 [Recommendations](recommendations)
