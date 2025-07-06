@@ -80,19 +80,17 @@ The primary source of this data is extra from Amazon product pages provided by D
 ## Data Analysis:
 ---
 
-EXCEL
-Create database Capstone_project
-
-
-
-
-
-
-
-
-
-
-
+Product Category	       Average Discount %
+HomeImprovement	         57.50%
+Computers & Accessories	 53.09%
+Health & PersonalCare	   53.00%
+Electronics	             49.91%
+Musical Instruments      	46.00%
+Car & Motorbike	          42.00%
+Home & Kitchen	           40.12%
+Office Products	          12.35%
+Toys & Games	             0.00%
+Grand Total (Average)    	46.64%
 
 
 ## Data Visualization
@@ -103,29 +101,67 @@ Create database Capstone_project
 
 ## Findings
 ---
+### Product Category by avaerage discount Percentage
 
+
+- Highest Discount:
+
+HomeImprovement (57.5%) offers the highest average discount.
+
+Likely a strategic push to drive sales in this category.
+
+- Above-Average Discounts:
+
+Computers & Accessories, Health & PersonalCare, and Electronics are above the overall average (46.64%).
+
+These could be competitive markets where price cuts are used to boost customer acquisition.
+
+- Very Low Discounts:
+
+Office Products (12.35%) and Toys&Games (0.00%) have the lowest discounts.
+
+May indicate premium pricing strategy, less competition, or oversight.
+
+Toys & Games:
+
+0% discount may indicate missing promotional effort, or niche targeting with fixed pricing.
 
 Below is the detail findings based on the salesdata provided:
 
-
-
-Product rating Breakdown:
-
-
-Product Category Performance:
-
-
-
-
-
-
-
-
-
-
 ## Conclusions
 ---
+The analysis reveals that discount strategies vary significantly across product categories, with an overall average discount of 46.64%.
+
+- Home Improvement, Computers & Accessories, and Health & PersonalCare receive the highest average discounts, suggesting aggressive promotional tactics to drive volume or compete in saturated markets.
+
+- In contrast, Office Products and Toys & Games have minimal to no discounts, which could indicate premium positioning, low competition, or missed opportunities in pricing strategy.
+
+To maximize performance, the business should reassess low-discount categories, ensure that high discounts align with profit goals, and consider more balanced or dynamic pricing strategies across all product lines.
 
 
 ## Recommendations
 ---
+- Evaluate Pricing for Office Products & Toys & Games:
+
+- Reassess strategy—low/zero discounts may be hurting sales.
+
+- Consider running promotions or bundling offers to attract attention.
+
+- Monitor Profit Margins in High-Discount Categories:
+
+- Home Improvement and Electronics may risk profit loss if margins are thin.
+
+- Ensure discounting is offset by volume or cross-sells.
+
+- Optimize Marketing in High-Discount Areas:
+
+- Highlight discounts in Computers & Accessories and Health & PersonalCare in ads to capitalize on high perceived value.
+
+Diversify Discount Strategies:
+
+- Instead of flat discounts, consider tiered offers or limited-time deals to create urgency without over-discounting.
+
+Review Competitor Pricing:
+
+Particularly in low-discount categories—ensure you're not losing competitive edge.
+
