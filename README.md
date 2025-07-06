@@ -99,6 +99,12 @@ Grand Total (Average)    	46.64%
 ![AMAZON PRODUCT ANALYSIS PART 1](https://github.com/user-attachments/assets/e4da4189-acc5-4196-ab7f-02283db40e0f)
 
 
+
+![AMAZON PRODUCT REVIEW ANALYSIS DASHBOARD CONTINUATION](https://github.com/user-attachments/assets/15e9a833-1096-4ffa-9d54-90d83c9fda04)
+
+
+
+
 ## Findings
 ---
 ### Product Category by avaerage discount Percentage
