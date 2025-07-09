@@ -37,6 +37,7 @@ The primary source of this data is extra from Amazon product pages provided by D
 
 
 ## Tools Used:
+---
  - Excel Microsoft Excel[Download Here](https://www.microsoft.com
      - For initial data exploration, 
      - creating pivot tables, 
@@ -107,7 +108,7 @@ Grand Total (Average)    	46.64%
 
 ## Findings
 ---
-### Product Category by avaerage discount Percentage
+### Product Category by average discount Percentage
 
 
 - Highest Discount:
@@ -169,5 +170,5 @@ Diversify Discount Strategies:
 
 Review Competitor Pricing:
 
-Particularly in low-discount categories—ensure you're not losing competitive edge.
+Particularly in low-discount categories to ensure competitive edge is not been loosed.
 
