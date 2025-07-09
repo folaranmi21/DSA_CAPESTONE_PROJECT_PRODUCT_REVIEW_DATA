@@ -1,4 +1,4 @@
-# DSA_CAPESTONE_PROJECT_PRODUCT_REVIEW_DATA
+# DSA_CAPESTONE_PROJECT_AMAZON_PRODUCT_REVIEW_DATA
 ---
 This is where i want to analyze one of the projects for the completion of my data analysis training with Incubator Hub
 
@@ -82,7 +82,7 @@ The primary source of this data is extra from Amazon product pages provided by D
 ---
 
 Product Category	       Average Discount %
-HomeImprovement	         57.50%
+Home Improvement	         57.50%
 Computers & Accessories	 53.09%
 Health & PersonalCare	   53.00%
 Electronics	             49.91%
