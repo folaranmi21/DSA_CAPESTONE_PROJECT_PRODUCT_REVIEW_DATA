@@ -80,7 +80,6 @@ The primary source of this data is extra from Amazon product pages provided by D
 
 ## Data Analysis:
 ---
-
 Product Category	       Average Discount %
 Home Improvement	         57.50%
 Computers & Accessories	 53.09%
